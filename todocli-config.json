@@ -1,0 +1,6 @@
+{
+    "tenant_id": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "application_id": "ef9e3fee-3a67-4dbd-872b-f5aac8586aa2",
+    "tenant": "common",
+    "scope": [ "offline_access", "https://outlook.office.com/tasks.readwrite"]
+}
